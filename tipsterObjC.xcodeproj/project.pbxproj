@@ -13,6 +13,7 @@
 		4448687120D882A20030BE26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4448687020D882A20030BE26 /* Assets.xcassets */; };
 		4448687420D882A20030BE26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4448687220D882A20030BE26 /* LaunchScreen.storyboard */; };
 		4448687720D882A20030BE26 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4448687620D882A20030BE26 /* main.m */; };
+		4448687F20D89DEB0030BE26 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4448687E20D89DEB0030BE26 /* SettingsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		4448687320D882A20030BE26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4448687520D882A20030BE26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4448687620D882A20030BE26 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4448687D20D89DEB0030BE26 /* SettingsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		4448687E20D89DEB0030BE26 /* SettingsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				4448686820D882990030BE26 /* AppDelegate.m */,
 				4448686A20D882990030BE26 /* ViewController.h */,
 				4448686B20D882990030BE26 /* ViewController.m */,
+				4448687D20D89DEB0030BE26 /* SettingsViewController.h */,
+				4448687E20D89DEB0030BE26 /* SettingsViewController.m */,
 				4448686D20D882990030BE26 /* Main.storyboard */,
 				4448687020D882A20030BE26 /* Assets.xcassets */,
 				4448687220D882A20030BE26 /* LaunchScreen.storyboard */,
@@ -144,6 +149,7 @@
 				4448686C20D882990030BE26 /* ViewController.m in Sources */,
 				4448687720D882A20030BE26 /* main.m in Sources */,
 				4448686920D882990030BE26 /* AppDelegate.m in Sources */,
+				4448687F20D89DEB0030BE26 /* SettingsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
